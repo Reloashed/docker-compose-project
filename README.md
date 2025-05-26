@@ -18,3 +18,17 @@
 - Due Date
 
 ## Ordnerlayout
+- .github
+  - workflows
+- frontend
+  - components
+  - model
+  - service
+- backend
+  - api
+  - service
+  - repository
+  - model
+    - dto
+    - entity
+- database
